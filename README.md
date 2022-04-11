@@ -1,4 +1,3 @@
-
 <!--
 **abubakar-yinka/abubakar-yinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Hi👋 I'm Abubakar Ibrahim - Software Engineer</h3>
+<h3 align="center"><img src="https://github-hero-readme.vercel.app/api?username=abubakar-yinka&linkedin=abubakar-ibrahim&twitter=Abubakar_YI_" href="https://abubakaribrahim.herokuapp.com/"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-yinka&label=Profile%20views&color=0e75b6&style=flat" alt="Abubakar" /> </p>
 
@@ -101,6 +100,30 @@ Here are some ideas to get you started:
 
 ![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-yinka&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/sebmaz93/github-readme-stats)>)
 
-[![abubakar-yinka's github stats](https://github-readme-stats.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/abubakar-yinka/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="abubakar-yinka" width="400" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt ="abubakar-yinka" width="400" />
+</p>
 
 [comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=abubakar-yinka&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/abubakar-yinka/github-profile-trophy&#41;)
+
+<p align="center"> <img src="https://github.com/abubakar-yinka/abubakar-yinka/blob/output/github-contribution-grid-snake.svg" width="700" /> <p>
+
+---
+
+<h2 align="center">My Socials :handshake: </h2>
+<p align="center">
+<a href="https://twitter.com/Abubakar_YI_">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://linkedin.com/in/abubakar-ibrahim">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://instagram.com/abubakar_y_i">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+</a>
+<a href="mailto:abubakaryinka75@gmail.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+---
