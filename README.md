@@ -106,11 +106,9 @@ Here are some ideas to get you started:
 
 [comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=abubakar-yinka&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/abubakar-yinka/github-profile-trophy&#41;)
 
-<p align="center"> <img src="https://github.com/abubakar-yinka/abubakar-yinka/blob/output/github-contribution-grid-snake.svg" width="700" /> <p>
-
 ---
 
-<h2 align="center">My Socials :handshake: </h2>
+<h2 align="center">My Socials</h2>
 <p align="center">
 <a href="https://twitter.com/Abubakar_YI_">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
