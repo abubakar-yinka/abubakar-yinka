@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><img src="https://github-hero-readme.vercel.app/api?username=abubakar-yinka&linkedin=abubakar-ibrahim&twitter=Abubakar_YI_" href="https://abubakaribrahim.herokuapp.com/"/></h3>
+<h3 align="center"><img src="https://github-hero-readme.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&linkedin=abubakar-ibrahim&twitter=Abubakar_YI_" href="https://abubakaribrahim.herokuapp.com/"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-yinka&label=Profile%20views&color=0e75b6&style=flat" alt="Abubakar" /> </p>
 
