@@ -106,6 +106,8 @@ Here are some ideas to get you started:
 
 [comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=abubakar-yinka&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/abubakar-yinka/github-profile-trophy&#41;)
 
+![Abubakar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abubakar-yinka&theme=react-dark&hide_border=true&area=true)
+
 ---
 
 <h2 align="center">My Socials</h2>
