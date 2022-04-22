@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="left">![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-yinka&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/sebmaz93/github-readme-stats)>)</p>
+![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-yinka&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/sebmaz93/github-readme-stats)>)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&theme=radical" alt="abubakar-yinka" width="400" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt ="abubakar-yinka" width="400" />
