@@ -66,9 +66,6 @@ Here are some ideas to get you started:
   <a href="https://heroku.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" title="heroku" width="40" height="40"/>
   </a> 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="40" height="40"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="40" height="40"/>
   </a> 
@@ -84,9 +81,6 @@ Here are some ideas to get you started:
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" title="sass" width="40" height="40"/>
   </a> 
-  <a href="https://www.sketch.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" title="sketch" width="40" height="40"/>
-  </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" title="webpack" width="40" height="40"/>
   </a>
