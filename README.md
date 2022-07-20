@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><p align="left">Hi there!👋</p><img src="https://github-hero-readme.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&linkedin=abubakar-ibrahim&twitter=Abubakar_YI_" href="https://abubakaribrahim.herokuapp.com/"/></h3>
-
+<h3 align="center"><p align="left">Hi there!👋</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-yinka&label=Profile%20views&color=0e75b6&style=flat" alt="Abubakar" /> </p>
+<img src="https://github-hero-readme.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&linkedin=abubakar-ibrahim&twitter=Abubakar_YI_" href="https://abubakaribrahim.herokuapp.com/"/></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar-yinka" alt="Abubakar" /></a> </p>
-
-<h3 align="left">I use these Languages and Tools:</h3>
+---
+## I use these Languages and Tools:
 <p>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="react" width="40" height="40"/>
@@ -100,6 +99,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-yinka&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/sebmaz93/github-readme-stats)>)
 
+---
+## GitHub Stats and Contributions
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar-yinka" alt="Abubakar" /></a> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&theme=radical" alt="abubakar-yinka" width="400" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt ="abubakar-yinka" width="400" />
 </p>
