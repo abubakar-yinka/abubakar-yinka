@@ -65,9 +65,6 @@ Here are some ideas to get you started:
   <a href="https://heroku.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" title="heroku" width="40" height="40"/>
   </a> 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="40" height="40"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="40" height="40"/>
   </a> 
@@ -83,9 +80,6 @@ Here are some ideas to get you started:
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" title="sass" width="40" height="40"/>
   </a> 
-  <a href="https://www.sketch.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" title="sketch" width="40" height="40"/>
-  </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" title="webpack" width="40" height="40"/>
   </a>
@@ -97,7 +91,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-yinka&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/sebmaz93/github-readme-stats)>)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-yinka&langs_count=8&layout=compact&theme=radical&count_private=true" alt="abubakar-yinka's Top Langs" width="600" /></p>
 
 ---
 ## GitHub Stats and Contributions
@@ -107,6 +101,12 @@ Here are some ideas to get you started:
 </p>
 
 [comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=abubakar-yinka&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/abubakar-yinka/github-profile-trophy&#41;)
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakar-yinka&theme=dracula" alt="abubakar-yinka" width="600" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-yinka&theme=dracula" alt ="abubakar-yinka" width="600" />
+</p>
+
+![Abubakar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abubakar-yinka&theme=react-dark&hide_border=true&area=true)
 
 ---
 
