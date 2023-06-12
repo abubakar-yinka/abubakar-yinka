@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-yinka&theme=dracula" alt ="abubakar-yinka" width="600" />
 </p>
 
-![Abubakar's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abubakar-yinka&theme=react-dark&hide_border=true&area=true)
+![Abubakar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakar-yinka&theme=react-dark&hide_border=true&area=true)
 
 ---
 
